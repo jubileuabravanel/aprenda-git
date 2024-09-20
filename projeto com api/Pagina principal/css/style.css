@@ -1,0 +1,243 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header */
+header {
+    border-bottom: 2px solid black;
+    background-color: #5c6b73;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.logo h3 {
+    color: #242423;
+    padding: 5px;
+}
+
+#pesquisa button {
+    position: relative;
+    right: 20%;
+    bottom: 2px;
+}
+
+/* Final Header */
+
+main {
+    border-bottom: 2px solid black;
+    background-color: whitesmoke;
+}
+
+/* carrossel */
+.baixo_carrossel {
+    position: relative;
+    bottom: 30px;
+    background-color: red;
+}
+
+.promo_dia {
+    position: relative;
+    top: 25px;
+    padding: 0.5%;
+
+}
+
+.acaba_hr {
+    text-align: end;
+    position: relative;
+    bottom: 30px;
+    padding: 0.5%;
+}
+
+/* final carrossel */
+
+
+.destaque {
+    margin-top: 50px;
+}
+
+#produtos h3 {
+    position: relative;
+    top: 50px;
+}
+
+.m800,
+.gabinete,
+.monitor,
+.teclado,
+.cadeira {
+    border: 1px solid black;
+    padding: 1.2%;
+    margin: 1%;
+    background-color: white;
+}
+
+/* começo botoes destaques */
+.botao_m800 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao_gabinete {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao_monitor {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao_teclado {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao_cadeira {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+/* Final botoes destaques */
+
+
+/* começo img/h5 dos Destaques */
+
+.m800 h5 {
+    font-size: 25px;
+}
+
+.gabinete h5 {
+    font-size: 25px;
+}
+
+.monitor h5 {
+    font-size: 25px;
+}
+
+.teclado h5 {
+    font-size: 25px;
+}
+
+.cadeira h5 {
+    font-size: 25px;
+} 
+
+/* Fim dos img/h5 dos destaques */
+
+/* inicio Promoções */
+.promo01,
+.promo02,
+.promo03,
+.promo04,
+.promo05 {
+    border: 1px solid black;
+    padding: 1.2%;
+    margin: 1%;
+    background-color: white;
+}
+
+.botao01 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao02 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao03 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao04 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.botao05 {
+    justify-content: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.promo01 h5 {
+  
+}
+
+.promo02 h5 {
+    font-size: 21px;
+}
+
+.promo03 h5 {
+    font-size: 24px;
+}
+
+.promo04 h5 {
+    font-size: 19px;
+}
+
+.promo05 h5 {
+    font-size: 21px;
+}  
+
+/* Final promoções */
+
+
+/* inicio footer */
+footer {
+    background-color: #171430;
+}
+
+footer p {
+    color: white;
+}
+
+.logo_foo {
+    padding: 10px;
+}
+
+.logo_foo h3 {
+    color: #242423;
+    padding: 5px;
+    color: white;
+}
+
+.conteudo {
+    justify-content: center;
+    color: white;
+}
+
+.conteudo_01 {
+    position: relative;
+    right: 20%;
+}
+
+.conteudo_02 {
+    position: relative;
+    left: 5%;
+}
+
+.logos_redes {
+    justify-content: end;
+    position: relative;
+    right: 25%;
+    bottom: 50px;
+    padding: 5px;
+}
+
+/* Final footer */
